@@ -11,7 +11,7 @@ Algorithm		    : Scrypt   ,
 Block Time		  : 5 Minute  ,
 Block Reward		: 5 FCC  ,
 Local 			: Indonesia (GMT +7) ,
-
+Official Website : www.forcecoin.co. ,
 
 
 Forcecoin Core version v0.12.0.0-g188ca9c305d (32-bit)

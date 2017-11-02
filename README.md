@@ -1,5 +1,18 @@
 # FORCECOIN-WALLET
 
+SPECIFICATIONS of  FORCECOIN
+
+Name            : Forcecoin
+Symbol 		      : FCC
+Total Supplay		: 30,000,000 FCC 
+ICO 		      	:7,000,000 FCC
+Decimal	      	:8
+Algorithm		    : Scrypt 
+Block Time		  : 5 Minute
+Block Reward		: 5 FCC
+
+
+
 Forcecoin Core version v0.12.0.0-g188ca9c305d (32-bit)
 
 Copyright (C) 2009-2016 The Forcecoin Core Developers

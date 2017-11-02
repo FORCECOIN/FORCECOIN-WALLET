@@ -1,15 +1,16 @@
-# FORCECOIN-WALLET
+# FORCECOIN-WALLET ,
 
-SPECIFICATIONS of  FORCECOIN
+SPECIFICATIONS of  FORCECOIN  ,
 
-Name            : Forcecoin
-Symbol 		      : FCC
-Total Supplay		: 30,000,000 FCC 
-ICO 		      	:7,000,000 FCC
-Decimal	      	:8
-Algorithm		    : Scrypt 
-Block Time		  : 5 Minute
-Block Reward		: 5 FCC
+Name            : Forcecoin  ,
+Symbol 		      : FCC,
+Total Supplay		: 30,000,000 FCC ,
+ICO 		      	:7,000,000 FCC  ,
+Decimal	      	:8  ,
+Algorithm		    : Scrypt   ,
+Block Time		  : 5 Minute  ,
+Block Reward		: 5 FCC  ,
+Local 			: Indonesia (GMT +7) ,
 
 
 
